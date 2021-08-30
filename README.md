@@ -5,7 +5,7 @@
 
 ## GENERAL INFORMATION
 
-The USB to Serial (TTL) FTDI is a USB to serial converter, for conversion it uses the CH340G chip powered by a micro-USB connection with a voltage of 5V. The converter features a 6-pin connector with a pitch of 2.54mm that reports GND, DTR, RX, TX, 3.3V and 5V signals. The converter can be used to program all cards that require USB to serial (TTL) conversion.
+The USB to Serial (TTL) FTDI is a USB to serial converter, for conversion it uses the CH340G chip powered by a micro-USB connection with a voltage of 5V. The converter features a 6-pin connector with a pitch of 2.54mm that reports GND, DTR, RX, TX, 3.3V and 5V signals. The converter can be used to program all boards that require USB to serial (TTL) conversion.
 
 ## DRIVER DOWNLOAD
 
