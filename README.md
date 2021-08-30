@@ -19,7 +19,7 @@ The USB to Serial (TTL) FTDI is a USB to serial converter, for conversion it use
 
 If you are interested in buying the PCB you can consider supporting the project by purchasing it on: 
 
-W.I.P.
+https://www.pcbway.com/project/shareproject/CrossRoad_LAB_FTDI_USB_to_SERIAL__TTL_.html
 
 ## PROJECT SITE
 
