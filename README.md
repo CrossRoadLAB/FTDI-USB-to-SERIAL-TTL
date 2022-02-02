@@ -23,7 +23,7 @@ https://www.pcbway.com/project/shareproject/CrossRoad_LAB_FTDI_USB_to_SERIAL__TT
 
 ## PROJECT SITE
 
-https://www.crossroadnetwork.org/CrossRoadLAB/projects/FTDI.html
+https://www.crossroadlab.org/projects/FTDI.html
 
 
 
