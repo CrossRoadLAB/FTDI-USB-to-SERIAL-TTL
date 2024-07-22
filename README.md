@@ -21,10 +21,6 @@ If you are interested in buying the PCB you can consider supporting the project 
 
 https://www.pcbway.com/project/shareproject/CrossRoad_LAB_FTDI_USB_to_SERIAL__TTL_.html
 
-## PROJECT SITE
-
-https://www.crossroadlab.org/projects/FTDI.html
-
 
 
 
